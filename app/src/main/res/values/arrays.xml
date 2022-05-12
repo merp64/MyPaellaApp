@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Ingredients2">
+    <item name='Chicken'>Chicken</item>
+    <item name='Chicken'>Ribs</item>
+    <item name='Chicken'>Sausage</item>
+    </string-array>
+
+    <string-array name="Ingredients3">
+        <item name='Veggies'>Onions</item>
+        <item name='Veggies'>Red Pepper</item>
+        <item name='Veggies'>Peas</item>
+    </string-array>
+
+</resources>

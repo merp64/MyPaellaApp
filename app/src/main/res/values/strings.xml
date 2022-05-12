@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Homemade Paella</string>
+
+    <string name="text_1">My Homemade Paella</string>
+
+    <string name="btn_txt_1">Seafood Paella</string>
+    <string name="btn_txt_2">Beef and Chicken Paella</string>
+    <string name="btn_txt_3">Veggie Paella</string>
+    
+    <string-array name="Ingredients">
+        <item name='Seafood'>Lobster</item>
+        <item name='Seafood'>Shrimp</item>
+        <item name='Seafood'>Mussels</item>
+        <item name='Seafood'>Clams</item>
+    </string-array>
+
+
+
+
+</resources>
